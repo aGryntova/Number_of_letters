@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509281962 source:c:\program files (x86)\codeblocks\numder_of_letters\main.c
+	<stdio.h>
+	<stdlib.h>
+
